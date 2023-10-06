@@ -7,3 +7,6 @@ Added an h1 heading.
 ```
 let progress = "Almost done!"
 ```
+## Todo list
+- [x] Complete this Github skills course
+- [ ] Work on the rest of the courses
